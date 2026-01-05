@@ -3,13 +3,13 @@
 	"id": "colorfulbricks",
 	"version": "${version}",
 	"name": "Colorful Bricks",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod changes the bricks to be dyable. You can also craft new blocks with the dyed bricks.",
 	"authors": [
-		"Me!"
+		"Minecraftweter"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.youtube.com/@minecraftbuilds-c6j",
+		"sources": "https://github.com/minecraftweter/ColorfulBricks"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/colorfulbricks/icon.png",
@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"net.minecraftweter.colorfulbricks.ColorfulBricksDataGenerator"
+		],
+		"client": [
+			"net.minecraftweter.colorfulbricks.ColorfulBricksClient"
 		]
 	},
 	"mixins": [
