@@ -1,5 +1,6 @@
 {
-  "item.colorfulbricks.red_brick": "Red Brick",
+  "item.minecraft.brick": "Brown Brick",
+    "item.colorfulbricks.red_brick": "Red Brick",
   "item.colorfulbricks.orange_brick": "Orange Brick",
   "item.colorfulbricks.yellow_brick": "Yellow Brick",
   "item.colorfulbricks.lime_brick": "Lime Brick",
@@ -14,5 +15,22 @@
   "item.colorfulbricks.lightgray_brick": "Lightgray Brick",
   "item.colorfulbricks.gray_brick": "Gray Brick",
   "item.colorfulbricks.black_brick": "Black Brick",
-  "item.minecraft.brick": "Brown Brick"
+
+
+  "block.minecraft.bricks": "Brown Bricks",
+  "block.colorfulbricks.red_bricks": "Red Bricks",
+  "block.colorfulbricks.orange_bricks": "Orange Bricks",
+  "block.colorfulbricks.yellow_bricks": "Yellow Bricks",
+  "block.colorfulbricks.lime_bricks": "Lime Bricks",
+  "block.colorfulbricks.green_bricks": "Green Bricks",
+  "block.colorfulbricks.cyan_bricks": "Cyan Bricks",
+  "block.colorfulbricks.lightblue_bricks": "Lightblue Bricks",
+  "block.colorfulbricks.blue_bricks": "Blue Bricks",
+  "block.colorfulbricks.purple_bricks": "Purple Bricks",
+  "block.colorfulbricks.magenta_bricks": "Magenta Bricks",
+  "block.colorfulbricks.pink_bricks": "Pink Bricks",
+  "block.colorfulbricks.white_bricks": "White Bricks",
+  "block.colorfulbricks.lightgray_bricks": "Lightgray Bricks",
+  "block.colorfulbricks.gray_bricks": "Gray Bricks",
+  "block.colorfulbricks.black_bricks": "Black Bricks"
 }
